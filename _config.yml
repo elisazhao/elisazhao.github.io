@@ -56,3 +56,5 @@ sass:
   compressed: true
 #gems:
 #  - jekyll-sitemap
+#change permalink format
+permalink: /:title

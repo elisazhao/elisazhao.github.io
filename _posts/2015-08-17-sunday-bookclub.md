@@ -4,7 +4,7 @@ title:      Sunday Bookclub
 date:       2015-08-17 10:58:29
 summary:    The Great Gatsby
 categories: 
-permalink: /sunday-bookclub/
+splash_image: images/IMG_0065.img
 ---
 
 <blockquote>
@@ -13,4 +13,4 @@ permalink: /sunday-bookclub/
   </p>
 </blockquote>
 
-
+![oops!]({{ site.baseurl }}/images/IMG_0065.jpg)
