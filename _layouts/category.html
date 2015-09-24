@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+  {% if page.categories != empty %}
+<ul class="category">
+  {% for category in page.categories %}
+  <li>
+  <a href="/{{ category }}.html">{{ site.data.categories[category].name }}</a>
+  </li>{% endfor %}
+</ul><br>
+{% endif %}

@@ -1,8 +1,8 @@
 # Site settings
-title:       Elisa Zhao
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       It's Elisa
+email:       yi.elisa.zhao@gmail.com
+author:      Elisa Zhao
+description: "A personal blog following the travels and life of Elisa"
 baseurl:     ""
 url:         "https://elisazhao.github.io/"
 

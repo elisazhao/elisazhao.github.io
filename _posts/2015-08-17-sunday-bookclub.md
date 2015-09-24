@@ -4,8 +4,9 @@ title:      Sunday Bookclub
 date:       2015-08-17 10:58:29
 summary:    The Great Gatsby
 categories: 
-splash_image: images/IMG_0065.jpg
+splash_image: images/Istanbul_1.jpg
 tags: [blog,places]
+categories: [living]
 ---
 
 <blockquote>
@@ -14,4 +15,4 @@ tags: [blog,places]
   </p>
 </blockquote>
 
-![oops!]({{ site.baseurl }}/images/IMG_0065.jpg)
+![oops!]({{ site.baseurl }}/images/Istanbul_1.jpg)
