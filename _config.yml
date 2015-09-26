@@ -1,5 +1,5 @@
 # Site settings
-title:       ![Oh no!]({{ site.baseurl }}/images/Santorini_1.JPG)
+title:       It's Elisa
 email:       yi.elisa.zhao@gmail.com
 author:      Elisa Zhao
 description: "A personal blog highlighting the beauty in everyday life and travels"
@@ -34,10 +34,10 @@ flattr_button:
 
 # Post sharing icons
 show_sharing_icons: true
-share_text: 'Share this post!'
+share_text: 'Share!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
