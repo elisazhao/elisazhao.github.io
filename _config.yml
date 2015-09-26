@@ -1,8 +1,8 @@
 # Site settings
-title:       It's Elisa
+title:       ![Oh no!]({{ site.baseurl }}/images/Santorini_1.JPG)
 email:       yi.elisa.zhao@gmail.com
 author:      Elisa Zhao
-description: "A personal blog following the travels and life of Elisa"
+description: "A personal blog highlighting the beauty in everyday life and travels"
 baseurl:     ""
 url:         "https://elisazhao.github.io/"
 
@@ -33,7 +33,7 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
 share_facebook: false

@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elisa Zhao</title>
-    <description>A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.</description>
+    <title>It&#39;s Elisa</title>
+    <description>A personal blog following the travels and life of Elisa</description>
     <link>https://elisazhao.github.io//</link>
     <atom:link href="https://elisazhao.github.io//feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Ballooning in Cappadocia</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;
+    Once a year, go someplace you&#39;ve never been before.
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/Cappadocia_1.JPG&quot; alt=&quot;oops!&quot; /&gt;
+First sunrise in Cappadocia…taken from the sky in a balloon. What a breathtaking way to start a trip!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Sep 2015 23:10:29 -0500</pubDate>
+        <link>https://elisazhao.github.io//ballooning-in-cappadocia</link>
+        <guid isPermaLink="true">https://elisazhao.github.io//ballooning-in-cappadocia</guid>
+      </item>
     
       <item>
         <title>Mama Oia!</title>
@@ -15,21 +32,6 @@
         <pubDate>Wed, 23 Sep 2015 03:38:29 -0500</pubDate>
         <link>https://elisazhao.github.io//mama-oia</link>
         <guid isPermaLink="true">https://elisazhao.github.io//mama-oia</guid>
-      </item>
-    
-      <item>
-        <title>Sunday Bookclub</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;
-    A little party never killed nobody.
-  &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/Istanbul_1.JPG&quot; alt=&quot;oops!&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Aug 2015 05:58:29 -0500</pubDate>
-        <link>https://elisazhao.github.io//sunday-bookclub</link>
-        <guid isPermaLink="true">https://elisazhao.github.io//sunday-bookclub</guid>
       </item>
     
   </channel>
