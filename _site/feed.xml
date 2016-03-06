@@ -2,36 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It&#39;s Elisa</title>
-    <description>A personal blog following the travels and life of Elisa</description>
+    <description>A personal journal of travel and the beauty in everyday life.</description>
     <link>https://elisazhao.github.io//</link>
     <atom:link href="https://elisazhao.github.io//feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Ballooning in Cappadocia</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;
-    Once a year, go someplace you&#39;ve never been before.
-  &lt;/p&gt;
-&lt;/blockquote&gt;
+        <title>Hello World!</title>
+        <description>&lt;p&gt;Hello world!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Cappadocia_1.JPG&quot; alt=&quot;oops!&quot; /&gt;
-First sunrise in Cappadocia…taken from the sky in a balloon. What a breathtaking way to start a trip!&lt;/p&gt;
+&lt;p&gt;Welcome to my blog! My name is Elisa and this will be a collection of my travel, food, and everyday moments.&lt;/p&gt;
 
+&lt;p&gt;I’m excited to finally start this blog! I’ve been thinking about this for months (maybe even years if you ask the right people…) so I hope you’re ready, because I am!&lt;/p&gt;
+
+&lt;p&gt;Cheers to adventures that await!&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Sep 2015 23:10:29 -0500</pubDate>
-        <link>https://elisazhao.github.io//ballooning-in-cappadocia</link>
-        <guid isPermaLink="true">https://elisazhao.github.io//ballooning-in-cappadocia</guid>
-      </item>
-    
-      <item>
-        <title>Mama Oia!</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/images/Oia_1.JPG&quot; alt=&quot;oops!&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Pretty little homes decorate the streets of Oia. Even though it would be thunderstorming just a couple minutes after this shot, I wandered in joy basking in the beauty of the streets.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2015 03:38:29 -0500</pubDate>
-        <link>https://elisazhao.github.io//mama-oia</link>
-        <guid isPermaLink="true">https://elisazhao.github.io//mama-oia</guid>
+        <pubDate>Sat, 05 Mar 2016 21:47:29 -0600</pubDate>
+        <link>https://elisazhao.github.io//first-post</link>
+        <guid isPermaLink="true">https://elisazhao.github.io//first-post</guid>
       </item>
     
   </channel>

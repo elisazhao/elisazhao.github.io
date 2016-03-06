@@ -2,5 +2,7 @@ blog:
   name: Blog
 css:
   name: CSS
+travel:
+  name: Travel
 places:
   name: Places
