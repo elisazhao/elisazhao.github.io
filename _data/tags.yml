@@ -6,3 +6,7 @@ travel:
   name: Travel
 places:
   name: Places
+food:
+  name: Food
+style:
+  name: Style
